@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c32demofordapper", "c32demofordapper\c32demofordapper.csproj", "{6DD23052-374F-4961-BD5F-3584A193A47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD23052-374F-4961-BD5F-3584A193A47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD23052-374F-4961-BD5F-3584A193A47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD23052-374F-4961-BD5F-3584A193A47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD23052-374F-4961-BD5F-3584A193A47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D841A7BD-FDF9-4E79-B29B-7EAD7B2FA419}
+	EndGlobalSection
+EndGlobal
